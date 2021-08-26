@@ -47,7 +47,7 @@ PIC-Kit4とSNAPに対応し、SWD端子を用いてご利用中のデバック�
 
 # ■ ピンアサイン
 
-![piassin.png](piassin.png)
+![piassin.png](img/piassin.png)
 
 
 # ■ 参考記事
