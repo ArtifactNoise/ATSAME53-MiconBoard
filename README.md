@@ -40,7 +40,7 @@ GPIO: SERCOMを基準に配置
 
 基板サイズ: 53.34mm x 28.45mm
 
-回路図: !(Schematic.pdf)
+回路図: [Schematic.pdf](Schematic.pdf)
 
 ![schematic img](img/Resized/schematic.jpg)
 
