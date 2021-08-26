@@ -16,29 +16,24 @@ PIC開発者が、ARMコアへ移行するのにオススメです。
 
 # ■ スペック
 
-CPU:    ATSAME53
-
-CORE:   ARM Cortex-M4F
-
-Program Memory: 512 KB
-
-Deta Memory:    192 KB
-
-Max Clock:  120 MHz
-
-SERCOM(UART,I2C,SPI): x6
-
-USB(Full-Speed):    x1
+|                      |                      |
+| -------------------- | -------------------- | 
+| CPU                  | ATSAME53             | 
+| Core                 | 32bit ARM Cortex-M4F | 
+| Program Memory (ROM) | 512 KB               | 
+| Deta Memory (RAM)    | 192 KB               | 
+| Clock(Max)           | 120 MHz              | 
+| SERCOM(UART,I2C,SPI) | x6                   | 
+| USB(Full-Speed)      | x1                   |  
 
 # ■ 基板仕様
 
-入力電源: 3.3V 
-
-クロック: 基板上に32.768KHz搭載
-
-GPIO: SERCOMを基準に配置
-
-基板サイズ: 53.34mm x 28.45mm
+|            |                                 | 
+| ---------- | ------------------------------- |
+| 入力電源   | 3.3V                            | 
+| クロック   | 基板上に32.768KHz水晶発振子搭載 | 
+| GPIO       | SERCOMを基準に配置              | 
+| 基板サイズ | 53.34mm x 28.45mm               |
 
 回路図: [Schematic.pdf](Schematic.pdf)
 
