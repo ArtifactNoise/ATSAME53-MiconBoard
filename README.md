@@ -49,6 +49,14 @@ PIC-Kit4とSNAPに対応し、SWD端子を用いてご利用中のデバック�
 
 ![piassin.png](img/piassin.png)
 
+※ PAとPBが混在している為、注意深く確認してください。
+
+ピン機能　簡易図
+
+![CN1_Pin.jpg](img/Resized/CN1_Pin.jpg)
+
+![CN2_Pin.jpg](img/Resized/CN2_Pin.jpg)
+
 
 # ■ 参考記事
 
