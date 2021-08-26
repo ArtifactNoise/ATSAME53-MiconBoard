@@ -3,7 +3,7 @@ ATSAME53 マイコン開発ボード
 
 
 
-![TOP img]](img/Resized/02.jpg)
+![TOP img]](https://github.com/ArtifactNoise/ATSAME53-MiconBoard/blob/main/img/Resized/02.jpg)
 
 # ■ これは何？
 
